@@ -1,22 +1,55 @@
+body {
+    margin: 0;
+}
+
+.dummy {
+    width: 100vw;
+    height: 120vh;
+    position: absolute;
+}
+
 .App {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
+.hlcall {
+    position: relative;
+    background: black;
+    width: 100%;
+    height: 100%;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.incall {
+    font-size: 2em;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: beige;
 }
 
-.App-link {
-  color: #09d3ac;
+.top {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    text-align:center;
+}
+
+.center {
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    text-align:center;
+    transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+}
+
+.bottom {
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+    text-align: center;
+}
+
+div {
+    outline: 5px solid black;
 }
