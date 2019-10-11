@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "02a915a887f95ec97f65a1d83d312d8e",
+    "revision": "2266c0ac8db99fe0ec81662d5c0e32af",
     "url": "/iphone_fullscreen/index.html"
   },
   {
