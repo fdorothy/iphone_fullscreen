@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/iphone_fullscreen/static/css/main.5c1b7067.chunk.css",
+    "main.css": "/iphone_fullscreen/static/css/main.4e683d55.chunk.css",
     "main.js": "/iphone_fullscreen/static/js/main.5d3b3a24.chunk.js",
     "main.js.map": "/iphone_fullscreen/static/js/main.5d3b3a24.chunk.js.map",
     "runtime-main.js": "/iphone_fullscreen/static/js/runtime-main.8504ffee.js",
@@ -8,15 +8,15 @@
     "static/js/2.8801eca5.chunk.js": "/iphone_fullscreen/static/js/2.8801eca5.chunk.js",
     "static/js/2.8801eca5.chunk.js.map": "/iphone_fullscreen/static/js/2.8801eca5.chunk.js.map",
     "index.html": "/iphone_fullscreen/index.html",
-    "precache-manifest.725e0dcabdc397708709ce6737b7d432.js": "/iphone_fullscreen/precache-manifest.725e0dcabdc397708709ce6737b7d432.js",
+    "precache-manifest.dde54981eac29b72ab3c2b51a8991b17.js": "/iphone_fullscreen/precache-manifest.dde54981eac29b72ab3c2b51a8991b17.js",
     "service-worker.js": "/iphone_fullscreen/service-worker.js",
-    "static/css/main.5c1b7067.chunk.css.map": "/iphone_fullscreen/static/css/main.5c1b7067.chunk.css.map",
+    "static/css/main.4e683d55.chunk.css.map": "/iphone_fullscreen/static/css/main.4e683d55.chunk.css.map",
     "static/media/logo.svg": "/iphone_fullscreen/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8504ffee.js",
     "static/js/2.8801eca5.chunk.js",
-    "static/css/main.5c1b7067.chunk.css",
+    "static/css/main.4e683d55.chunk.css",
     "static/js/main.5d3b3a24.chunk.js"
   ]
 }

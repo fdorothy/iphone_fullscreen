@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b21f80037f1253cda4bfb1553cef375a",
+    "revision": "02a915a887f95ec97f65a1d83d312d8e",
     "url": "/iphone_fullscreen/index.html"
   },
   {
-    "revision": "dc1c2173e33c10e66ad9",
-    "url": "/iphone_fullscreen/static/css/main.5c1b7067.chunk.css"
+    "revision": "652ec4eb122546cf09d3",
+    "url": "/iphone_fullscreen/static/css/main.4e683d55.chunk.css"
   },
   {
     "revision": "1718ca18a0721dda3568",
     "url": "/iphone_fullscreen/static/js/2.8801eca5.chunk.js"
   },
   {
-    "revision": "dc1c2173e33c10e66ad9",
+    "revision": "652ec4eb122546cf09d3",
     "url": "/iphone_fullscreen/static/js/main.5d3b3a24.chunk.js"
   },
   {
